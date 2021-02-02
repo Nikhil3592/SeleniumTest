@@ -1,3 +1,6 @@
+/*
+Author: Nikhil
+*/
 package org.seleniumprjct.Selenium;
 
 import java.awt.GraphicsDevice.WindowTranslucency;
